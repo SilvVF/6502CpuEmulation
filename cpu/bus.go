@@ -1,4 +1,4 @@
-package main
+package cpu
 
 type Bus struct {
 	cpu Olc6502
